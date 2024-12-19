@@ -29,3 +29,8 @@ Despite its power, ntrRAT offers an intuitive and easy-to-use interface, even fo
 # 🔒 Secure and Reliable
 ntrRAT offers reliable and secure remote access while ensuring that your operations remain private and protected.
 
+# HOW TO USE : 
+- download the zip file
+- extract it 
+- run start.bat 
+
